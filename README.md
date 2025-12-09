@@ -1,6 +1,7 @@
 # Hi 👋, I’m Godwin Murithi  
 
 **GIS & Spatial Systems Architect | Spatial Data Infrastructure Specialist**  
+> I develop spatial systems that **connect data, technology, and operational impact**, enabling organizations to **analyze, visualize, and optimize operations** using geospatial intelligence.
 
 ---
  
@@ -37,7 +38,7 @@ A **centralized spatial data repository** enabling secure storage, visualization
 
 ---
 
-## 🤝 Collaboration  
+## Collaboration  
 
 I collaborate on projects that:  
 - Build **scalable spatial systems** across sectors  
@@ -45,8 +46,10 @@ I collaborate on projects that:
 - Turn **spatial data into actionable intelligence, analytics, and operational insights**  
 - Support decision-making in **health, infrastructure, government, utilities, transportation, real estate, or environmental management**  
 
-📫 Reach me: [godwinm@orionterrametrics.co.ke](mailto:godwinm@orionterrametrics.co.ke)  
+Reach me: [godwinm@orionterrametrics.co.ke](mailto:godwinm@orionterrametrics.co.ke)  
 
 ---
 
 > I develop spatial systems that **connect data, technology, and operational impact**, enabling organizations to **analyze, visualize, and optimize operations** using geospatial intelligence.
+
+---
